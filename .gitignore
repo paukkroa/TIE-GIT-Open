@@ -1,0 +1,7 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore files defined in instructions
+.in
+.out
+.pyc
